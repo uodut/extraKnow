@@ -1,4 +1,4 @@
-package tuodu.junit4;
+package tudou.junit4;
 
 import static org.junit.Assert.assertEquals;
 

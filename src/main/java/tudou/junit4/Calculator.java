@@ -1,4 +1,4 @@
-package tuodu.junit4;
+package tudou.junit4;
 
 public class Calculator {
     private static int result; // 静态变量，用于存储运行结果

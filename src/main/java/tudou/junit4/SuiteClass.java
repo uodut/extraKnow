@@ -1,4 +1,4 @@
-package tuodu.junit4;
+package tudou.junit4;
 
 import org.junit.Before;
 import org.junit.Test;
