@@ -38,7 +38,6 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /**
- * 步骤 1.
  * 
  * @author tudou
  *
